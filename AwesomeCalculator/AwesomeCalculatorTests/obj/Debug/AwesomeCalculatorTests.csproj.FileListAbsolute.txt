@@ -1,0 +1,23 @@
+C:\Users\balje\Documents\Visual Studio 2017\Projects\AwesomeCalculator\AwesomeCalculatorTests\bin\Debug\AwesomeCalculatorTests.dll
+C:\Users\balje\Documents\Visual Studio 2017\Projects\AwesomeCalculator\AwesomeCalculatorTests\bin\Debug\AwesomeCalculatorTests.pdb
+C:\Users\balje\Documents\Visual Studio 2017\Projects\AwesomeCalculator\AwesomeCalculatorTests\bin\Debug\AwesomeCalculator.exe
+C:\Users\balje\Documents\Visual Studio 2017\Projects\AwesomeCalculator\AwesomeCalculatorTests\bin\Debug\nunit.framework.dll
+C:\Users\balje\Documents\Visual Studio 2017\Projects\AwesomeCalculator\AwesomeCalculatorTests\bin\Debug\AwesomeCalculator.pdb
+C:\Users\balje\Documents\Visual Studio 2017\Projects\AwesomeCalculator\AwesomeCalculatorTests\bin\Debug\AwesomeCalculator.exe.config
+C:\Users\balje\Documents\Visual Studio 2017\Projects\AwesomeCalculator\AwesomeCalculatorTests\bin\Debug\nunit.framework.xml
+C:\Users\balje\Documents\Visual Studio 2017\Projects\AwesomeCalculator\AwesomeCalculatorTests\obj\Debug\AwesomeCalculatorTests.csprojResolveAssemblyReference.cache
+C:\Users\balje\Documents\Visual Studio 2017\Projects\AwesomeCalculator\AwesomeCalculatorTests\obj\Debug\AwesomeCalculatorTests.dll
+C:\Users\balje\Documents\Visual Studio 2017\Projects\AwesomeCalculator\AwesomeCalculatorTests\obj\Debug\AwesomeCalculatorTests.pdb
+\\Mac\Home\Desktop\AwesomeCalculator\AwesomeCalculator\AwesomeCalculatorTests\bin\Debug\AwesomeCalculatorTests.dll
+\\Mac\Home\Desktop\AwesomeCalculator\AwesomeCalculator\AwesomeCalculatorTests\bin\Debug\AwesomeCalculatorTests.pdb
+\\Mac\Home\Desktop\AwesomeCalculator\AwesomeCalculator\AwesomeCalculatorTests\bin\Debug\AwesomeCalculator.exe
+\\Mac\Home\Desktop\AwesomeCalculator\AwesomeCalculator\AwesomeCalculatorTests\bin\Debug\nunit.framework.dll
+\\Mac\Home\Desktop\AwesomeCalculator\AwesomeCalculator\AwesomeCalculatorTests\bin\Debug\AwesomeCalculator.pdb
+\\Mac\Home\Desktop\AwesomeCalculator\AwesomeCalculator\AwesomeCalculatorTests\bin\Debug\AwesomeCalculator.exe.config
+\\Mac\Home\Desktop\AwesomeCalculator\AwesomeCalculator\AwesomeCalculatorTests\bin\Debug\nunit.framework.pdb
+\\Mac\Home\Desktop\AwesomeCalculator\AwesomeCalculator\AwesomeCalculatorTests\bin\Debug\nunit.framework.xml
+\\Mac\Home\Desktop\AwesomeCalculator\AwesomeCalculator\AwesomeCalculatorTests\obj\Debug\AwesomeCalculatorTests.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\AwesomeCalculator\AwesomeCalculator\AwesomeCalculatorTests\obj\Debug\AwesomeCalculatorTests.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\AwesomeCalculator\AwesomeCalculator\AwesomeCalculatorTests\obj\Debug\AwesomeCalculatorTests.csproj.CopyComplete
+\\Mac\Home\Desktop\AwesomeCalculator\AwesomeCalculator\AwesomeCalculatorTests\obj\Debug\AwesomeCalculatorTests.dll
+\\Mac\Home\Desktop\AwesomeCalculator\AwesomeCalculator\AwesomeCalculatorTests\obj\Debug\AwesomeCalculatorTests.pdb

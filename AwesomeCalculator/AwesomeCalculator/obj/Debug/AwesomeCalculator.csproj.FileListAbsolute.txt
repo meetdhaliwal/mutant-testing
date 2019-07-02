@@ -1,0 +1,19 @@
+c:\users\balje\documents\visual studio 2017\Projects\AwesomeCalculator\AwesomeCalculator\bin\Debug\AwesomeCalculator.exe.config
+c:\users\balje\documents\visual studio 2017\Projects\AwesomeCalculator\AwesomeCalculator\bin\Debug\AwesomeCalculator.exe
+c:\users\balje\documents\visual studio 2017\Projects\AwesomeCalculator\AwesomeCalculator\bin\Debug\AwesomeCalculator.pdb
+c:\users\balje\documents\visual studio 2017\Projects\AwesomeCalculator\AwesomeCalculator\obj\Debug\AwesomeCalculator.csprojResolveAssemblyReference.cache
+c:\users\balje\documents\visual studio 2017\Projects\AwesomeCalculator\AwesomeCalculator\obj\Debug\AwesomeCalculator.exe
+c:\users\balje\documents\visual studio 2017\Projects\AwesomeCalculator\AwesomeCalculator\obj\Debug\AwesomeCalculator.pdb
+C:\Users\balje\Documents\Visual Studio 2017\Projects\AwesomeCalculator\AwesomeCalculator\bin\Debug\nunit.framework.dll
+C:\Users\balje\Documents\Visual Studio 2017\Projects\AwesomeCalculator\AwesomeCalculator\bin\Debug\nunit.framework.xml
+\\Mac\Home\Desktop\AwesomeCalculator\AwesomeCalculator\AwesomeCalculator\bin\Debug\AwesomeCalculator.exe.config
+\\Mac\Home\Desktop\AwesomeCalculator\AwesomeCalculator\AwesomeCalculator\bin\Debug\AwesomeCalculator.exe
+\\Mac\Home\Desktop\AwesomeCalculator\AwesomeCalculator\AwesomeCalculator\bin\Debug\AwesomeCalculator.pdb
+\\Mac\Home\Desktop\AwesomeCalculator\AwesomeCalculator\AwesomeCalculator\bin\Debug\nunit.framework.dll
+\\Mac\Home\Desktop\AwesomeCalculator\AwesomeCalculator\AwesomeCalculator\bin\Debug\nunit.framework.xml
+\\Mac\Home\Desktop\AwesomeCalculator\AwesomeCalculator\AwesomeCalculator\obj\Debug\AwesomeCalculator.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\AwesomeCalculator\AwesomeCalculator\AwesomeCalculator\obj\Debug\AwesomeCalculator.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\AwesomeCalculator\AwesomeCalculator\AwesomeCalculator\obj\Debug\AwesomeCalculator.csproj.CopyComplete
+\\Mac\Home\Desktop\AwesomeCalculator\AwesomeCalculator\AwesomeCalculator\obj\Debug\AwesomeCalculator.exe
+\\Mac\Home\Desktop\AwesomeCalculator\AwesomeCalculator\AwesomeCalculator\obj\Debug\AwesomeCalculator.pdb
+\\Mac\Home\Desktop\AwesomeCalculator\AwesomeCalculator\AwesomeCalculator\bin\Debug\nunit.framework.pdb
