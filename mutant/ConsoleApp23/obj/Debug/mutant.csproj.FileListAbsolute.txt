@@ -1,0 +1,11 @@
+C:\Users\meet\source\repos\ConsoleApp23\ConsoleApp23\bin\Debug\ConsoleApp23.exe.config
+C:\Users\meet\source\repos\ConsoleApp23\ConsoleApp23\bin\Debug\ConsoleApp23.exe
+C:\Users\meet\source\repos\ConsoleApp23\ConsoleApp23\bin\Debug\ConsoleApp23.pdb
+C:\Users\meet\source\repos\ConsoleApp23\ConsoleApp23\bin\Debug\nunit.framework.dll
+C:\Users\meet\source\repos\ConsoleApp23\ConsoleApp23\bin\Debug\nunit.framework.pdb
+C:\Users\meet\source\repos\ConsoleApp23\ConsoleApp23\bin\Debug\nunit.framework.xml
+C:\Users\meet\source\repos\ConsoleApp23\ConsoleApp23\obj\Debug\mutant.csprojAssemblyReference.cache
+C:\Users\meet\source\repos\ConsoleApp23\ConsoleApp23\obj\Debug\mutant.csproj.CoreCompileInputs.cache
+C:\Users\meet\source\repos\ConsoleApp23\ConsoleApp23\obj\Debug\mutant.csproj.CopyComplete
+C:\Users\meet\source\repos\ConsoleApp23\ConsoleApp23\obj\Debug\ConsoleApp23.exe
+C:\Users\meet\source\repos\ConsoleApp23\ConsoleApp23\obj\Debug\ConsoleApp23.pdb
